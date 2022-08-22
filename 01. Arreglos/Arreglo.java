@@ -1,3 +1,8 @@
+/**
+ * Clase de ejemplos de complejidad en espacio
+ * @author Emmanuel Cruz Hernández
+ * @since Laboratorio de Estructuras de Datos 2023-1.
+ */
 public class Arreglo {
 
   /**
