@@ -11,6 +11,7 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 ## Temas
 
 1. Arreglos. Ejemplo de arreglos y complejidad en espacio de forma experimental
+2. Clases genéricas. Declaración de clases genércias, usos y ejemplos.
 
 ----
 
