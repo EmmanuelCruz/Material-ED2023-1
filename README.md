@@ -13,6 +13,7 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 1. Arreglos. Ejemplo de arreglos y complejidad en espacio de forma experimental
 2. Clases genéricas. Declaración de clases genéricas, usos y ejemplos.
 3. Iteradores. Ejemlo de implementación y uso de iteradores.
+4. Listas. Definición de TDAList para las operaciones de una lista y ejemplos de implementación de listas simplemente ligadas y doblemente ligadas.
 
 ----
 
