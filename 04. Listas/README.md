@@ -1,6 +1,6 @@
 # Listas
 
----
+----
 
 ## Descripción
 
@@ -10,6 +10,15 @@ Las listas son una estructura de datos que permiten almacenar datos de forma que
 * LinkedList. Lista basada en una sola referencia.
 * DoubleLinkedList. Lista basada en referencias dobles.
 
+----
+
+## Recursos
+
+* [Operaciones básicas en listas - Animaciones](https://docs.google.com/presentation/d/1ABwryIv4IwNPE3EqD7zDlbkDlVKzLb6jrXBmH0cYB1E/edit?usp=sharing)
+* [Sobre listas doblemente ligadas](https://e-hello-blog.netlify.app/estructuras-datos/listas-dobles-ligadas)
+
+----
+
 ## Sobre las clases
 
 * **DoubleLinkedList**. Declaración de los métodos para una lista doblemente ligada, basada en las operaciones definidas en el TDAList.
@@ -17,6 +26,8 @@ Las listas son una estructura de datos que permiten almacenar datos de forma que
 * **SimpleLinkedList**. Declaración e implementación de los métodos para una lista ligada simple, basada en las operaciones definidas en el TDAList.
 * **TDAList**. Interfaz que define las operaciones para una lista.
 * **TestLinkedList**. Ejemploficación de los métodos implementados para una lista doblemente ligada.
+
+----
 
 ## Compilar y ejecutar
 
