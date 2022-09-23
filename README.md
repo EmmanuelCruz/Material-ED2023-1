@@ -21,6 +21,8 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 ## Prácticas
 
 1. Arreglos y Complejidad
+2. Listas
+3. Pilas
 
 ----
 
