@@ -15,6 +15,7 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 3. Iteradores. Ejemlo de implementación y uso de iteradores.
 4. Listas. Definición de TDAList para las operaciones de una lista y ejemplos de implementación de listas simplemente ligadas y doblemente ligadas.
 5. Pilas. Definición de TDAStack para las operaciones de una pila, así como una implementación basada en una lista.
+6. Colas. Definición de TDAQueue para operaciones de una cola. Implementación basada en una lista.
 
 ----
 
