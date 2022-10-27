@@ -23,7 +23,9 @@ Se implementan los siguientes algoritmos de ordenamiento:
 Para compilar todas las clases se utiliza el siguientes comando
 
     javac Sorter.java
+    javac BinarySearch.java
 
 Para ejecutar de alguna con la ejemplificación, se utiliza el comando siguiente
 
     java Sorter
+    java BinarySearch
