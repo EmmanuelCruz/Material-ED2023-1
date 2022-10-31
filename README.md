@@ -17,6 +17,7 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 5. Pilas. Definición de TDAStack para las operaciones de una pila, así como una implementación basada en una lista.
 6. Colas. Definición de TDAQueue para operaciones de una cola. Implementación basada en una lista.
 7. Ordeamientos. Implementación y comparación de dos algoritmos de ordenamiento: InsertionSort y MergeSort.
+8. Árbol binario de búsqueda. Definición de TDABinarySearchTree para las operaciones de un árbol binario de búsqueda.
 
 ----
 
