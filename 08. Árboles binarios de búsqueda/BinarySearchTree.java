@@ -114,30 +114,30 @@ public class BinarySearchTree<K extends Comparable, T> implements TDABinarySearc
   }
 
   /**
-   * Recorre un árbol en preorden.
+   * Recorre un árbol en inorden.
    * @param actual el nodo actual del recorrido.
    */
-  public void preorden(BinaryNode actual){
+  public void inorden(BinaryNode actual){
     // Si es null
     if(actual == null)
       return;
     
-    // Aplicar preorden al izquierdo
-    preorden(actual.left);
+    // Aplicar inorden al izquierdo
+    inorden(actual.left);
     // Visitar el elemento
     System.out.println(actual.element);
-    // Aplicar preorden al derecho
-    preorden(actual.right);
+    // Aplicar inorden al derecho
+    inorden(actual.right);
 
   }
 
   @Override
-  public void preorden(){
-    preorden(root);
+  public void inorden(){
+    inorden(root);
   }
 
   @Override
-  public void inorden(){}
+  public void preorden(){}
 
   @Override
   public void postorden(){}

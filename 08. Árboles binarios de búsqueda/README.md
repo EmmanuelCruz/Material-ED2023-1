@@ -19,7 +19,7 @@ Implementación de un árbol binario de búsqueda con nodos y referencias.
 
 * **BinarySearchTree**. Implementación de un árbol binario de búsqueda.
 * **TDABinarySearchTree**. TDA con las operaciones de un árbol binario de búsqueda.
-* **BinarySearchTreeTest**. Se pone a prueba la implementación del método de inserción y el recorrido en preorden.
+* **BinarySearchTreeTest**. Se pone a prueba la implementación del método de inserción y el recorrido en inorden.
 
 ----
 
