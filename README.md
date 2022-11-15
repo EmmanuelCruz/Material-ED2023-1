@@ -18,6 +18,8 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 6. Colas. Definición de TDAQueue para operaciones de una cola. Implementación basada en una lista.
 7. Ordeamientos. Implementación y comparación de dos algoritmos de ordenamiento: InsertionSort y MergeSort.
 8. Árbol binario de búsqueda. Definición de TDABinarySearchTree para las operaciones de un árbol binario de búsqueda.
+9. Árboles Rojinegros. Base de la implementación de un árbol rojinegro.
+10. Árboles AVL. Base de la implementación de un árbol AVL.
 
 ----
 
