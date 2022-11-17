@@ -20,6 +20,7 @@ Repositorio con los ejemplos de laboratorio de estructuras de datos.
 8. Árbol binario de búsqueda. Definición de TDABinarySearchTree para las operaciones de un árbol binario de búsqueda.
 9. Árboles Rojinegros. Base de la implementación de un árbol rojinegro.
 10. Árboles AVL. Base de la implementación de un árbol AVL.
+11. Heaps. Implementación de un montículo máximo.
 
 ----
 
