@@ -22,14 +22,14 @@ public class MaxHeap<K extends Comparable> {
    * @param size la longitu del arreglo de datos.
    */
   public MaxHeap(int size) {
-    data = (K[]) new Object[size];
+    data = (K[]) new Comparable[size];
   }
 
   /**
    * Crea un nuevo montículo máximo.
    */
   public MaxHeap() {
-    data = (K[]) new Object[MAX];
+    data = (K[]) new Comparable[MAX];
   }
 
   /**
@@ -42,6 +42,8 @@ public class MaxHeap<K extends Comparable> {
       data = Arrays.copyOf(data, data.length + MAX);
 
     data[pos++] = k;
+
+    reacomodaArriba(pos-1);
   }
 
   /**
@@ -55,7 +57,7 @@ public class MaxHeap<K extends Comparable> {
     if(padre < 0) return;
 
     // Si el elemento actual es menor a su padre
-    if(data[i].compareTo(data[padre]) < 0)
+    if(data[i].compareTo(data[padre]) <= 0)
       return;
 
     swap(i, padre);
